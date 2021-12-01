@@ -1,6 +1,6 @@
 # Throttle
 
-两种节流阀，一种防抖动
+两种节流阀，一种防抖动。无内存泄露问题。
 
 [![CI Status](https://img.shields.io/travis/Star/Throttle.svg?style=flat)](https://travis-ci.org/Star/Throttle)
 [![Version](https://img.shields.io/cocoapods/v/Throttle.svg?style=flat)](https://cocoapods.org/pods/Throttle)
