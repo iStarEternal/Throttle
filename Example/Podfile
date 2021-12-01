@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'Throttle_Example' do
+  pod 'Throttle', :path => '../'
+  pod 'Throttle/Definition', :path => '../'
+
+  target 'Throttle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

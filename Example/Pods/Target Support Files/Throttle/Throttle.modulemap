@@ -1,0 +1,6 @@
+framework module Throttle {
+  umbrella header "Throttle-umbrella.h"
+
+  export *
+  module * { export * }
+}

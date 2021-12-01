@@ -1,0 +1,28 @@
+{
+  "name": "Throttle",
+  "version": "0.1.0",
+  "summary": "A short description of Throttle.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Star/Throttle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Star": "576681253@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Star/Throttle.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Throttle/Classes/Throttle.swift",
+  "subspecs": [
+    {
+      "name": "Definition",
+      "source_files": "Throttle/Classes/Throttle+Definition.swift"
+    }
+  ]
+}

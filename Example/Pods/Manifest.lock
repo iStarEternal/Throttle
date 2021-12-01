@@ -1,0 +1,19 @@
+PODS:
+  - Throttle (0.1.0):
+    - Throttle/Definition (= 0.1.0)
+  - Throttle/Definition (0.1.0)
+
+DEPENDENCIES:
+  - Throttle (from `../`)
+  - Throttle/Definition (from `../`)
+
+EXTERNAL SOURCES:
+  Throttle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Throttle: e3a4ab79c16615d35b38e76d7cb7a3d1f9a718e9
+
+PODFILE CHECKSUM: 827ff97b8d7d5a9984a2cbafcb023ccd5976f7a8
+
+COCOAPODS: 1.11.2
